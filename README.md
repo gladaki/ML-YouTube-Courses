@@ -10,7 +10,7 @@ https://homerhanumat.github.io/r-notes/
 
 ***Course in Python 
 
-
+https://cs50.harvard.edu/python/2022/
 
 
 **Machine Learning**
