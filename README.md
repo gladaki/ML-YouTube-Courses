@@ -9,9 +9,9 @@ https://homerhanumat.github.io/r-notes/
 
 
 
-***Course in Python 
+***Course in Python**
 
-https://cs50.harvard.edu/python/2022/
+https://cs50.harvard.edu/python/2022/ ((#Harvard Python Course))
 
 
 **Machine Learning**
