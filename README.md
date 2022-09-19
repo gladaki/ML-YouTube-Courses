@@ -36,6 +36,7 @@ https://cs50.harvard.edu/python/2022/ ((#Harvard Python Course))
 - [Foundation Models](#foundation-models) 🆕
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
+- https://course20.fast.ai/ (#Practical Deep learning for Coders)
 
 **NLP**
 
