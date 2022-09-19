@@ -1,6 +1,17 @@
 # 📺 ML YouTube Courses
 
-At DAIR.AI we ❤️ open education. In this repo we share some of the best and most recent machine learning courses available on YouTube.
+** Prorgraming Courses 
+
+**Course in R 
+https://homerhanumat.github.io/r-notes/
+
+
+
+
+***Course in Python 
+
+
+
 
 **Machine Learning**
 
