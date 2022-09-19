@@ -1,8 +1,9 @@
 # 📺 ML YouTube Courses
 
-** Prorgraming Courses 
+** Prorgraming Courses**
 
-**Course in R 
+**Course in R** 
+
 https://homerhanumat.github.io/r-notes/
 
 
